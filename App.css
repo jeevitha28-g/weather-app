@@ -1,0 +1,58 @@
+/* src/App.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+body {
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  padding-top: 50px;
+}
+
+.container {
+  text-align: center;
+}
+
+.card {
+  background: #ffffff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.card-subtitle {
+  text-transform: capitalize;
+}
+
+input.form-control {
+  border-radius: 8px;
+}
+
+button.btn-primary {
+  border-radius: 8px;
+  padding: 8px 20px;
+  font-weight: bold;
+}
+
+/* Sun and Cloud specific colors */
+.sun-icon {
+    color: yellow;
+  }
+  
+  .cloud-icon {
+    color: gray;
+  }
+  
+  .default-icon {
+    color: skyblue;
+  }
+  

@@ -1,2 +1,2 @@
 # weather-app
-A weather forecast application that allows users to check the current weather based on their location. The app fetches data from a weather API and displays it in a user-friendly manner.
+A React-based weather app that provides real-time weather updates and forecasts based on your location, using data from a weather API. Simple and user-friendly interface.
