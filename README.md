@@ -3,10 +3,10 @@ A React-based weather app that provides real-time weather updates and forecasts 
 
 
 ## Features
-🔍 Search weather by city name.
-🌡️ Displays temperature, weather condition, humidity, and wind speed.
-🕒 Real-time data fetching.
-🎨 Clean and responsive design.
+- 🔍 Search weather by city name.
+- 🌡️ Displays temperature, weather condition, humidity, and wind speed.
+- 🕒 Real-time data fetching.
+- 🎨 Clean and responsive design.
 
 
 **Installation**
