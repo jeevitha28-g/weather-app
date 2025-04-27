@@ -11,11 +11,9 @@ A React-based weather app that provides real-time weather updates and forecasts 
 
 ## Installation
 1. **Clone the repository**
-```bash
 git clone https://github.com/jeevitha28-g/weather-app.git
 
 2. **Navigate to the project directory**
-```bash
 cd weather-app
 
 3. **Install required dependencies**
