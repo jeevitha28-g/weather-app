@@ -18,16 +18,13 @@ cd weather-app
 
 3. **Install required dependencies**
 - If you're using Python/Flask or Node.js backend, mention requirements.txt or package.json here. If it's pure HTML/JS, you can skip.
-```bash
 npm install
 
 4. **Run the project**
 - Option 1: Once the dependencies are installed, start the development server:
-```bash
 npm start
 
 - Option 2: This command will start the app and open it in your default web browser. If it doesn't open automatically, you can manually visit:
-```bash
 http://localhost:3000
 
 5.**Troubleshooting**
@@ -37,7 +34,6 @@ If you encounter any issues with the app not starting, make sure:
 
 6. **Building for Production**
 - If you want to build the app for production (e.g., deploy it), you can use the following command:
-```bash
 npm run build
 
 
@@ -70,9 +66,9 @@ weather-app/
 
 
 ## Usage
--Enter the city name in the search box.
--Click the Search button.
--View the current weather details fetched from the weather API.
+- Enter the city name in the search box.
+- Click the Search button.
+- View the current weather details fetched from the weather API.
 
 
 ## Technologies Used
