@@ -10,41 +10,36 @@ A React-based weather app that provides real-time weather updates and forecasts 
 
 
 ## Installation
-1. Clone the repository
-Copy code
-git clone https://github.com/your-username/weather-app.git
+1. **Clone the repository**
+```bash
+git clone https://github.com/jeevitha28-g/weather-app.git
 
-2. Navigate to the project directory
-bash
-Copy code
+2. **Navigate to the project directory**
+```bash
 cd weather-app
 
-3. Install required dependencies
-(If you're using Python/Flask or Node.js backend, mention requirements.txt or package.json here. If it's pure HTML/JS, you can skip.)
-bash
-Copy code
+3. **Install required dependencies**
+- If you're using Python/Flask or Node.js backend, mention requirements.txt or package.json here. If it's pure HTML/JS, you can skip.
+```bash
 npm install
 
-4. Run the project
--Once the dependencies are installed, start the development server:
-bash
-Copy code
+4. **Run the project**
+- Option 1: Once the dependencies are installed, start the development server:
+```bash
 npm start
 
--This command will start the app and open it in your default web browser. If it doesn't open automatically, you can manually visit:
-arduino
-Copy code
+- Option 2: This command will start the app and open it in your default web browser. If it doesn't open automatically, you can manually visit:
+```bash
 http://localhost:3000
 
-5. Troubleshooting
+5.**Troubleshooting**
 If you encounter any issues with the app not starting, make sure:
--You have the required version of Node.js and npm installed.
--You’ve run the npm install command to install dependencies.
+- You have the required version of Node.js and npm installed.
+- You’ve run the npm install command to install dependencies.
 
-6. Building for Production
-If you want to build the app for production (e.g., deploy it), you can use the following command:
-bash
-Copy code
+6. **Building for Production**
+- If you want to build the app for production (e.g., deploy it), you can use the following command:
+```bash
 npm run build
 
 
