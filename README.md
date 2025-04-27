@@ -9,7 +9,7 @@ A React-based weather app that provides real-time weather updates and forecasts 
 - 🎨 Clean and responsive design.
 
 
-**Installation**
+## Installation
 1. Clone the repository
 Copy code
 git clone https://github.com/your-username/weather-app.git
