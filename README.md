@@ -13,6 +13,13 @@ It fetches real-time weather data from the [OpenWeatherMap API](https://openweat
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home page
+![Home page](./screenshots/home page.png)
+
+---
+
 ## 🛠️ Tech Stack
 - **React.js** (Frontend Framework)
 - **Axios** (HTTP requests)
@@ -110,4 +117,4 @@ This project is licensed under the MIT License - feel free to use and modify!
 
 
 ## Contact
-Made with ❤️ by Jeevitha (https://github.com/jeevitha28-g)
+Made with 💙 by [Jeevitha](https://github.com/jeevitha28-g)
