@@ -16,7 +16,7 @@ It fetches real-time weather data from the [OpenWeatherMap API](https://openweat
 ## 📸 Screenshots
 
 ### 🏠 Home page
-![Home page](./screenshots/home page.png)
+![Home page](./screenshots/home-page.png)
 
 ---
 
