@@ -56,7 +56,7 @@ npm start
 http://localhost:3000
 ```
 
-**5.Troubleshooting:**
+**5. Troubleshooting:**
 - If you encounter any issues with the app not starting, make sure
 1. You have the required version of Node.js and npm installed.
 2. You’ve run the npm install command to install dependencies.
