@@ -5,7 +5,7 @@ It fetches real-time weather data from the [OpenWeatherMap API](https://openweat
 
 ---
 
-## Features
+## 🚀 Features
 - 🔍 Search weather by city name.
 - 🌡️ Displays temperature, weather condition, humidity, and wind speed.
 - 🕒 Real-time data fetching.
@@ -69,7 +69,7 @@ npm run build
 
 ---
 
-## Explanation
+## 📝 Explanation
 **1. Clone the repository**: This step clones your GitHub repository to the user's machine.
 
 **2. Install Dependencies**: Ensures the user installs all the necessary dependencies to run the app.
@@ -82,7 +82,7 @@ npm run build
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
 ```bash
 weather-app/
 │
@@ -103,23 +103,23 @@ weather-app/
 
 ---
 
-## Usage
+## ✨ Usage
 - Enter the city name in the search box.
 - Click the Search button.
 - View the current weather details fetched from the weather API.
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 - 🌐 HTML, CSS, JavaScript
 - ☁️ Weather API (like OpenWeatherMap or WeatherAPI)
 
 ---
 
-## License
+## 📄 License
 This project is licensed under the MIT License - feel free to use and modify!
 
 ---
 
-## Contact
+## 📞 Contact
 Made with 💙 by [Jeevitha](https://github.com/jeevitha28-g)
