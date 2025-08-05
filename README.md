@@ -39,7 +39,7 @@ It fetches real-time weather data from the [OpenWeatherMap API](https://openweat
 cd weather-app
 ```
 
-**5. Install required dependencies:**
+**3. Install required dependencies:**
 - If you're using Python/Flask or Node.js backend, mention requirements.txt or package.json here. If it's pure HTML/JS, you can skip.
 ```bash
 npm install
@@ -61,12 +61,13 @@ http://localhost:3000
 1. You have the required version of Node.js and npm installed.
 2. You’ve run the npm install command to install dependencies.
 
-6. **Building for Production:**
+**6. Building for Production:**
 - If you want to build the app for production (e.g., deploy it), you can use the following command
 ```bash
 npm run build
 ```
 
+---
 
 ## Explanation
 **1. Clone the repository**: This step clones your GitHub repository to the user's machine.
@@ -79,7 +80,7 @@ npm run build
 
 **5. Build for Production**: Explains how to create a production build of the app if users want to deploy it.
 
-
+---
 
 ## Folder Structure
 ```bash
@@ -100,21 +101,25 @@ weather-app/
 └── README.md
 ```
 
+---
 
 ## Usage
 - Enter the city name in the search box.
 - Click the Search button.
 - View the current weather details fetched from the weather API.
 
+---
 
 ## Technologies Used
 - 🌐 HTML, CSS, JavaScript
 - ☁️ Weather API (like OpenWeatherMap or WeatherAPI)
 
+---
 
 ## License
 This project is licensed under the MIT License - feel free to use and modify!
 
+---
 
 ## Contact
 Made with 💙 by [Jeevitha](https://github.com/jeevitha28-g)
